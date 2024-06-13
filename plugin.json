@@ -1,8 +1,8 @@
 {
-    "id": "react",
+    "id": "react-demo",
     "version": "0.0.1",
     "meta": {
-        "label": "React",
+        "label": "React-demo",
         "description": "",
         "author": "Andrey Avtomonov",
         "icon": "icon-puzzle-piece",
